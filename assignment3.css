@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+     color:blue;
+     font-family:verdana;
+     text-align:center;
+     font-size:300%;
+}
+h2{
+	color:red;
+	font-family:verdana;
+	text-align:center;
+	font-size:300%;
+}
+p {
+color:Green;
+font-family:courier;
+font-size:160%;
+    }
+    p  {
+    	color:orange;
+    	font-family:courier;
+    	font-size:160%;
+    }
+    p  {
+    	color:black;
+    	font-family:courier;
+    	font-size:160%;
+    }
+    p  {
+    	color:blue;
+    	font-family:courier;
+    	font-size:160%;
+    }
+    p  {
+    	color:yellow;
+    	font-family:courier;
+    	font-size:160%;
+    }
+    p  {
+    	color:rgb(0, 0, 0);
+    	font-family:courier;
+    	font-size:160%;
+    }
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
